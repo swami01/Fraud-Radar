@@ -58,7 +58,7 @@ div[data-testid="stForm"] {
 .stButton>button,
 button[kind="formSubmit"],
 div[data-testid="stFormSubmitButton"] button {
-    background-color: #64e38a !important;
+    background-color: #08bf0e !important;
     color: #10162b !important;
     border-radius: 10px !important;
     border: none !important;
