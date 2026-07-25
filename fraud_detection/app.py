@@ -59,7 +59,7 @@ div[data-testid="stForm"] {
 button[kind="formSubmit"],
 div[data-testid="stFormSubmitButton"] button {
     background-color: #64e38a !important;
-    color: black !important;
+    color: #10162b !important;
     border-radius: 10px !important;
     border: none !important;
     font-weight: 600 !important;
@@ -70,7 +70,7 @@ div[data-testid="stFormSubmitButton"] button {
 button[kind="formSubmit"]:hover,
 div[data-testid="stFormSubmitButton"] button:hover {
     background-color: #2e8f4b !important;
-    color: black !important;
+    color: #ffffff !important;
 }
 </style>
 """, unsafe_allow_html=True)
