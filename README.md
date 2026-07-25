@@ -10,6 +10,9 @@ app with per-prediction explainability.
  ![Fraud Radar demo](fraud_detection/assests/demo1.png)
  ![Fraud Radar demo](fraud_detection/assests/demo2.png)
  ![Fraud Radar demo](fraud_detection/assests/demo3.png)
+ ![Fraud Radar demo](fraud_detection/assests/demo4.png)
+ ![Fraud Radar demo](fraud_detection/assests/demo5.png)
+ ![Fraud Radar demo](fraud_detection/assests/demo6.png)
 
 ## Project structure
 
