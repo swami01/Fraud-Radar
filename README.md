@@ -1,10 +1,12 @@
-<img width="800" height="385" alt="fraud radar" src="https://github.com/user-attachments/assets/819dcb33-ef6a-4656-82f7-f2284eab4321" />
+
 # Fraud Radar — Credit Card Fraud Detection
 
 A production-oriented version of the fraud detection
 project: honest evaluation methodology, real feature engineering, a
 saved model artifact instead of retraining on every run, and a Streamlit
 app with per-prediction explainability.
+
+<img width="800" height="385" alt="fraud radar" src="https://github.com/user-attachments/assets/819dcb33-ef6a-4656-82f7-f2284eab4321" />
 
  **[Live Demo](https://fraud-radar-swami.streamlit.app)**
 
