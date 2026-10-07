@@ -1,3 +1,4 @@
+<img width="800" height="385" alt="fraud radar" src="https://github.com/user-attachments/assets/819dcb33-ef6a-4656-82f7-f2284eab4321" />
 # Fraud Radar — Credit Card Fraud Detection
 
 A production-oriented version of the fraud detection
